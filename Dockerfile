@@ -1,4 +1,4 @@
-FROM golang:1.12
+FROM golang:1.12.9
 
 WORKDIR /go/src/invoke
 
